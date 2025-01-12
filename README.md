@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mcgregorsa/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/mcgregorsa/post-install-config) In Process
+  - [osTicket: Post-Installation Configuration](https://github.com/mcgregorsa/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mcgregorsa/ticket-lifecycle) In Process
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mcgregorsa/configure-ad) In Process
