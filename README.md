@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mcgregorsa/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mcgregorsa/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/mcgregorsa/ticket-lifecycle) In Process
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/mcgregorsa/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mcgregorsa/configure-ad) In Process
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mcgregorsa/azure-network-protocols)
