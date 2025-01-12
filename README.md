@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/mcgregorsa/osticket-prereqs) In Process
+  - [osTicket: Prerequisites and Installation](https://github.com/mcgregorsa/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mcgregorsa/post-install-config) In Process
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mcgregorsa/ticket-lifecycle) In Process
 - <b>Microsoft Azure</b>
